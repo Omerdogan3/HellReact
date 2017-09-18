@@ -1,6 +1,9 @@
 # ReactJS Basics
 
-This repository accompanies my ReactJS - Basics YouTube Series.
+This repository accompanies my ReactJS
 
 # Usage
-Switch to the branch you're interested in (branches = different stages in the series) and compare/ download the source code.
+
+npm install
+
+npm start
